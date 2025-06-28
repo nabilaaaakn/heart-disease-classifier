@@ -1,9 +1,20 @@
 # heart-disease-classifier
 Aplikasi klasifikasi risiko penyakit jantung menggunakan model machine learning Random Forest. Berdasarkan data seperti usia, jenis kelamin, detak jantung, oldpeak, dan hasil tes medis. Dibuat dengan Streamlit untuk tujuan edukasi, bukan diagnosis klinis.
 
-# 💓 Klasifikasi Risiko Penyakit Jantung
+#  Klasifikasi Risiko Penyakit Jantung
 
 Aplikasi berbasis Streamlit yang menggunakan model machine learning untuk mengklasifikasikan apakah seorang pasien **berisiko terkena penyakit jantung** atau tidak berdasarkan data medis dasar.
+
+✅ Akurasi model: 94%
+
+⚙️ Dibuat menggunakan Streamlit, scikit-learn, dan pickle
+
+💡 Ingin memodifikasi atau melatih ulang model?
+
+Silakan buka notebook Google Colab berikut dan buat salinan di drive kamu sendiri:
+
+**[📎 Google Colab Link](https://colab.research.google.com/drive/17mmOZwCJ05Hbe1kwRBcLdxpSV5rpFfLJ?usp=sharing)**  
+
 
 Model ini dibangun menggunakan algoritma **Random Forest Classifier** dan dilatih dari dataset `heart.csv` yang berisi fitur seperti:
 - Usia
@@ -34,8 +45,7 @@ Model ini dibangun menggunakan algoritma **Random Forest Classifier** dan dilati
 ## 🚀 Coba Aplikasinya
 
 👉 Klik untuk mencoba langsung di Streamlit:  
-**[🔗 Coba Aplikasi Klasifikasi Jantung](https://nama-deploy-kamu.streamlit.app)**  
-_(ganti dengan link deploy kamu nanti)_
+**[🔗 Coba Aplikasi Klasifikasi Jantung](https://heart-disease-classifier-ml.streamlit.app/)**  
 
 ---
 
